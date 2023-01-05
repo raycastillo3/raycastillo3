@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)]
+![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 <h3 align="center">A passionate software engineer from New York</h3>
 
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **raymondcastillo587@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
