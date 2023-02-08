@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 <h3 align="center">A passionate software engineer from New York</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Graph QL, Agile Methodology, Microservices**
+- 🌱 I’m currently learning **GraphQL, Agile Methodology, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://info-raymond-c7804.web.app/](https://info-raymond-c7804.web.app/)
 
-- 💬 Ask me about **React, NodeJS, mySQL**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, mySQL**
 
 - 📫 How to reach me **raymondcastillo587@gmail.com**
 
