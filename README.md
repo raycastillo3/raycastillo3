@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Agile Methodology, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://info-raymond-c7804.web.app/](https://info-ray.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://info-ray.vercel.app/](https://info-ray.vercel.app/)
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS, mySQL**
 
