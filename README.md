@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Agile Methodology, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://info-ray.vercel.app/](https://info-ray.vercel.app/)
-
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS, mySQL**
 
 - 📫 How to reach me **raymondcastillo587@gmail.com**
